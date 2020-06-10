@@ -1,4 +1,4 @@
-#MySQL-Assignment
+# MySQL-Assignment
 Some mysql topics to get hands on with: </br>
 - Transactions
 - Indexing
